@@ -55,7 +55,7 @@ public class AuthActivity extends AppCompatActivity {
                 String txt_password = password.getText().toString().trim();
 
                 if(TextUtils.isEmpty(txt_email) || TextUtils.isEmpty(txt_password)){
-                    Toast.makeText(AuthActivity.this, "Por Favor ingrese sus credenciales", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(AuthActivity.this, "Ingrese  todos los campos", Toast.LENGTH_SHORT).show();
                 }else{
                     auth.signInWithEmailAndPassword(txt_email,txt_password).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
                         @Override
@@ -66,7 +66,7 @@ public class AuthActivity extends AppCompatActivity {
                                 startActivity(intent);
                                 finish();
                             }else{
-                                Toast.makeText(AuthActivity.this,"Fallo la Autentificación", Toast.LENGTH_SHORT).show();
+                                Toast.makeText(AuthActivity.this,"Inicio Fallido", Toast.LENGTH_SHORT).show();
                             }
 
                         }
