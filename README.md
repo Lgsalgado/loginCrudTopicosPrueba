@@ -9,7 +9,8 @@ _Se presenta como se realizó la app nativa en Android Studio sobre un directori
 _CRUD implementado en firebase y Login respectivamente_  
 
 ## Creación de proyecto en firebase   
-Se crea proyecto en firebase _androidClase_ y le otorgamos permisos de autenticación.
+Se crea proyecto en firebase _androidClase_ y le otorgamos permisos de autenticación.   
+
  ![image](https://drive.google.com/uc?export=view&id=1eSp9Fb-vREWWmgQbhI4KAHMA3un2TUa_)
     
     
@@ -21,6 +22,8 @@ En el diseño de las pantallas se lo realizo con 4 archivos .xml en el directori
 * activity_home.xml - Aquí se realizara todo el proceso de CRUD y sus botones.   
 * activity_register.xml - Screen de registro de usuarios.
 ```
+   
+   
  ![image](https://drive.google.com/uc?export=view&id=1d1VURzW4-KzQ86_0UHZn3_7_30ILdeiY)
 
 ## Creación de funciones✏️
@@ -47,7 +50,7 @@ En el directorio java se crearon las clases respectivamente de cada screen y adi
 ![image](https://drive.google.com/uc?export=view&id=1mEmRfeuUXeCJf30vT21Y2fA9GZNvc6Y6)
 
 ## Entregable Video Youtube
-* [VIDEO](https://youtu.be/F65kchdakDc) - Video demostrativo app, click en la imagen.  
-                                                         [![VIDEO](https://img.youtube.com/vi/F65kchdakDc/0.jpg)](https://youtu.be/F65kchdakDc)
+* [VIDEO](https://youtu.be/F65kchdakDc) - Video demostrativo app, click en la imagen.   
+[![VIDEO](https://img.youtube.com/vi/F65kchdakDc/0.jpg)](https://youtu.be/F65kchdakDc)
 
 ## _GRACIAS POR SU VISITA_ 👌
