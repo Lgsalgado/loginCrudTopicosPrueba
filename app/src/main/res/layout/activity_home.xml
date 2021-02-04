@@ -97,7 +97,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="20"
-                android:text="Todos" />
+                android:text="Todo" />
 
             <Button
                 android:id="@+id/btnConsultarUsuario"
@@ -125,9 +125,16 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="20"
-                android:text="Delete" />
+                android:text="Del" />
 
         </LinearLayout>
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="Directorio"
+            android:gravity="center_horizontal" />
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/rvUsuarios"
             android:layout_width="match_parent"

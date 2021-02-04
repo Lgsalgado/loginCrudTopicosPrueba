@@ -29,11 +29,8 @@ public class HomeActivity extends AppCompatActivity {
     EditText etUsuario, etContrasena, etTelefono, etEmail;
     Button btnConsultar, btnConsultarUsuario, btnAgregar, btnEditar, btnEliminar,btnlogout;;
     RecyclerView rvUsuarios;
-
     DatabaseReference databaseReference;
-
     List<Usuario> listaUsuarios = new ArrayList<>();
-
     AdaptadorUsuario adaptador;
 
     @Override
