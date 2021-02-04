@@ -9,9 +9,9 @@ _Se presenta como se realizó la app nativa en Android Studio sobre un directori
 _CRUD implementado en firebase y Login respectivamente_  
 
 ## Creación de proyecto en firebase   
-Se crea proyecto en firebase _androidClase_ y le otorgamos permisos de autenticación.   
+Se crea proyecto en firebase _androidClase_ y le otorgamos permisos de autenticación.  
 
- ![image](https://drive.google.com/uc?export=view&id=1eSp9Fb-vREWWmgQbhI4KAHMA3un2TUa_)
+![image](https://drive.google.com/uc?export=view&id=1eSp9Fb-vREWWmgQbhI4KAHMA3un2TUa_)
     
     
 ## Diseño Layout 📃
