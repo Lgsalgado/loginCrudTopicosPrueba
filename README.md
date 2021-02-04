@@ -1,4 +1,4 @@
-# PRUEBA #1 BIMESTRE 
+# PRUEBA 2do BIMESTRE TÓPICOS ESPECIALES
 ## _Integrantes: ✒️_ 
 ```
 * Karla Chinacalle
